@@ -1,0 +1,7 @@
+body {
+    background-color: #fff;
+    background-image: url(../imgs/flamengo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
